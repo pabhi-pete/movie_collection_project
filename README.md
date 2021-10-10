@@ -1,1 +1,1 @@
-# movie_collection_project
+# social network query API
